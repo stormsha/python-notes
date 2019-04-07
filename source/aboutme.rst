@@ -10,4 +10,4 @@
 
 --------------------------------------------
 
-详情略
+.. image:: https://stormsha.com/static/images/docs/card.png
