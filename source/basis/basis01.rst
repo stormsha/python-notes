@@ -13,4 +13,4 @@ Python基础
    :maxdepth: 2
    :glob:
 
-   ../basis/*
+   01/*
